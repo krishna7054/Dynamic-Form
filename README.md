@@ -26,7 +26,7 @@ A live demo of the application can be accessed [here](https://scintillating-heli
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/krishna7054/Dynamic-Form-Levels.git
+    git clone https://github.com/krishna7054/Dynamic-Form.git
     cd dynamic-form-levels
     ```
 
